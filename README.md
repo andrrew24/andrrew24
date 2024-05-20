@@ -5,9 +5,10 @@ I am a Software engineer
 ------------------------
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [andrewwasfy24@gmail.com](mailto:andrewwasfy24@gmail.com)
-* 🧠  I'm learning Flutter 
+* 📱  I'm mobile app developer
+* 🧑‍🎓  I'm currently enrolled at Digital Egypt Pioneers Intern
 * 🤝  I'm open to collaborating on Creating Softwares
+* ✉️  You can contact me at [andrewwasfy24@gmail.com](mailto:andrewwasfy24@gmail.com)
 * ⚡  Have a Nice Day ♥
 
 ### Skills
