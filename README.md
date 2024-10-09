@@ -24,7 +24,6 @@ The app features seamless audio playback, user authentication, and a light/dark 
 #### Key Features:
 - 🎵 Stream your favorite songs
 - 🌗 Light/Dark mode toggle
-- 💾 Offline song saving with Hive
 - 📊 Clean architecture with Cubit for state management
 
 ### Skills
