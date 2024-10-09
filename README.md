@@ -19,8 +19,7 @@ I am a Software engineer
 This fully functional Spotify clone app is built using Flutter, PocketBase for the backend, and Hive for local storage.
 The app features seamless audio playback, user authentication, and a light/dark mode switch. You can check out the project [here](https://github.com/andrrew24/spotify_clone).
 
-![Spotify Clone](![spotifybanner](https://github.com/user-attachments/assets/94e3a012-b3a3-4e86-822f-8d7b26a8ce39)
-)
+![Spotify Clone](assets/spotifybanner.png)
 
 #### Key Features:
 - 🎵 Stream your favorite songs
