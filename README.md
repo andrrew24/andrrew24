@@ -4,12 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software engineer
 ------------------------
 
-* 🌍  I'm based in Egypt
 * 📱  I'm a mobile app developer
 * 🧑‍🎓  I'm currently enrolled at Digital Egypt Pioneers Intern
 * 🤝  I'm open to collaborating on Creating Software
+* 🌍  I'm based in Egypt
 * ✉️  You can contact me at [andrewwasfy24@gmail.com](mailto:andrewwasfy24@gmail.com)
 * ⚡  Have a Nice Day ♥
+
+
+## 💼 My Work
+
+### Spotify Clone 🎧
+
+This fully functional Spotify clone app is built using Flutter, PocketBase for the backend, and Hive for local storage.
+The app features seamless audio playback, user authentication, and a light/dark mode switch. You can check out the project [here](https://github.com/andrrew24/spotify_clone).
+
+![Spotify Clone](path-to-your-image.png)
+
+#### Key Features:
+- 🎵 Stream your favorite songs
+- 🌗 Light/Dark mode toggle
+- 💾 Offline song saving with Hive
+- 📊 Clean architecture with Cubit for state management
 
 ### Skills
 
